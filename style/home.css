@@ -1,0 +1,365 @@
+@font-face {
+  font-family: 'Inter';
+  src: url('font\inter.ttf');
+}
+
+/* Navigasi */
+.nav-link:hover {
+  color: #19345e;
+}
+
+.nav-link {
+  font-weight: 500;
+}
+
+.navigasi {
+  margin-left: 332px;
+  position: absolute;
+  margin-top: 26px;
+  margin-bottom: 28px;
+}
+
+/* Card */
+
+.frame-1 {
+  margin-top: 145px;
+  margin-bottom: 145px;
+  margin-left: 120px;
+  margin-right: 90px;
+}
+
+.group-1 {
+  font-family: 'Inter', sans-serif;
+}
+
+.judul {
+  font-weight: 700;
+  font-size: 64px;
+  margin-right: 500px;
+  margin-bottom: 0px;
+  color: #19345e;
+}
+
+.deskripsi {
+  margin-right: 700px;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+.tombol-1 {
+  margin-top: 42px;
+  padding: 15px 25px;
+  background-color: #19345e;
+  border-radius: 0;
+  color: aliceblue;
+}
+
+.tombol-1:hover {
+  background-color: #19345e;
+  color: aliceblue;
+}
+
+.teks-1 {
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 42px;
+  margin-left: -50px;
+}
+
+.gambar-1 {
+  width: 486px;
+  float: right;
+  margin-top: -600px;
+}
+
+/* Headlines */
+.frame-2 {
+  margin-top: 130px;
+  margin-bottom: 150px;
+  margin-left: 163px;
+  margin-right: 163px;
+}
+
+.group-2 {
+  font-family: 'Inter', sans-serif;
+}
+
+.oval {
+  width: 54px;
+  height: 54px;
+  background-color: #e7ebfc;
+  border-radius: 50%;
+  margin-bottom: 86px;
+}
+
+.judul-2 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #19345e;
+}
+
+.teks-2 {
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 50px;
+}
+
+.judul-3 {
+  font-size: 52px;
+  font-weight: 700;
+  color: #19345e;
+  padding-bottom: 0px;
+}
+
+.deskripsi-2 {
+  font-size: 20px;
+  font-weight: 400;
+  padding-top: 16px;
+  padding-bottom: 0px;
+}
+
+.tombol-2 {
+  margin-top: 28px;
+  padding: 15px;
+  background-color: #19345e;
+  border-radius: 0;
+  color: aliceblue;
+  width: 213px;
+}
+
+.tombol-2:hover {
+  background-color: #19345e;
+  color: aliceblue;
+}
+
+/* Benefits */
+.judul-4 {
+  font-size: 52px;
+  font-weight: 700;
+  color: #19345e;
+  padding-bottom: 38px;
+  margin-bottom: 0px;
+}
+
+.oval-2 {
+  width: 72px;
+  height: 72px;
+  background-color: #e7ebfc;
+  border-radius: 50%;
+  margin-bottom: 70px;
+}
+
+.judul-5 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #19345e;
+  margin-left: 40px;
+  margin-bottom: 8px;
+}
+
+.teks-3 {
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 50px;
+  margin-left: 40px;
+}
+
+/* Story */
+.frame-3 {
+  margin-top: 115px;
+  margin-bottom: 115px;
+  margin-left: 165px;
+  margin-right: 165px;
+  background-color: #e7ebfc;
+}
+
+.judul-6 {
+  font-size: 42px;
+  font-weight: 700;
+  color: #19345e;
+  padding-top: 119px;
+  padding-left: 95px;
+  margin-bottom: 32px;
+}
+
+.deskripsi-3 {
+  font-size: 42px;
+  font-weight: 400;
+  padding-left: 95px;
+  padding-right: 380px;
+  line-height: 52px;
+  margin-bottom: 0px;
+}
+
+.logitech {
+  width: 200px;
+  padding-top: 32px;
+  padding-left: 95px;
+}
+
+.link {
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+  padding-left: 95px;
+  padding-bottom: 152px;
+  color: #19345e;
+}
+
+.link:hover {
+  color: #19345e;
+}
+
+.gambar-2 {
+  width: 380px;
+  height: 420px;
+  margin-top: -600px;
+  margin-left: 47px;
+  float: right;
+  display: inline;
+}
+
+/* Process */
+.frame-4 {
+  margin-top: 64px;
+  margin-left: 165px;
+  margin-right: 165px;
+  margin-bottom: 76px;
+}
+.judul-7 {
+  font-size: 42px;
+  font-weight: 700;
+  color: #19345e;
+  margin-bottom: 0px;
+}
+
+.circle {
+  width: 24px;
+  height: 24px;
+  background-color: #19345e;
+  border-radius: 50%;
+}
+
+.dot {
+  border-top: 2px #19345e dashed;
+  width: 183px;
+  margin-top: 10px;
+}
+
+.judul-8 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #19345e;
+  margin-bottom: 0px;
+}
+
+.teks-4 {
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 76px;
+}
+
+/* Closing */
+.frame-5 {
+  margin-top: 103px;
+  margin-left: 165px;
+  margin-right: 165px;
+  margin-bottom: 98px;
+}
+
+.judul-9 {
+  font-size: 52px;
+  font-weight: 700;
+  color: #19345e;
+  margin-bottom: 0px;
+}
+
+.deskripsi-4 {
+  font-size: 18px;
+  font-weight: 400;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: 24px;
+  margin-bottom: 0px;
+}
+
+.tombol-3 {
+  margin-top: 61px;
+  margin-bottom: 0px;
+  padding: 15px 25px;
+  background-color: #19345e;
+  border-radius: 0;
+  color: aliceblue;
+}
+
+.tombol-3:hover {
+  background-color: #19345e;
+  color: aliceblue;
+}
+
+.line {
+  border-top: 2px #b4b4b4 solid;
+  width: 100%;
+  margin-top: 61px;
+}
+
+/* Footer */
+.frame-6 {
+  margin-top: 39px;
+  margin-left: 136px;
+  margin-right: 136px;
+  margin-bottom: 44px;
+}
+
+.judul-10 {
+  font-size: 18px;
+  font-weight: 500;
+  color: #fff;
+  padding-bottom: 0px;
+  margin-bottom: 6px;
+}
+
+.deskripsi-5 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  color: #fff;
+  width: 450px;
+  margin-bottom: 17px;
+}
+
+.link-2 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #fff;
+  text-decoration: none;
+}
+
+.link-2:hover {
+  color: #fff;
+}
+
+.nav-footer {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.nav-footer:hover {
+  color: #fff;
+}
+
+.line-2 {
+  border-top: 1px #fff solid;
+  width: 100%;
+  margin-top: 32px;
+  opacity: 0.08;
+}
+
+.teks-footer {
+  font-size: 14px;
+  font-weight: 400;
+  color: #fff;
+}

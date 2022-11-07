@@ -1,0 +1,316 @@
+.Navbar{
+    display:flex;
+    justify-content: flex-start;
+    margin-top: 1%;
+    margin-left: 10%;
+}
+.Menu{
+    display: flex;
+    flex-direction: row;
+    
+}
+.Menu>li{
+margin-top: 5%;
+list-style-type: none;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: midnightblue;
+}
+.Menu>li>a:hover {
+    background-color:orange;
+    transition:all .5s ease-in-out
+  }
+
+.Menu>li>a{
+    text-decoration: none;
+    padding: 20px;    
+}
+.Headline{
+    padding-top: 2%;
+    margin-right: 40%;
+    margin-left: 10%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: midnightblue;
+    font-size: 300%;
+}
+.ecommerce{
+    margin-left: 10%;
+    margin-right: 50%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.isi1{
+    background-color: lightblue;
+}
+.profil1{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 0%;
+    margin-left: 8%;
+}
+.profil2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 0%;
+    margin-left: 2%;
+}
+.jesica{
+    margin-top: 1%;
+    margin-left: 2%;
+}
+.solutions{
+    display: flex;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 30%;
+    margin-left: 25%;
+    font-size: 300%;
+    color: midnightblue;
+}
+.bungkusCard1{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 2%;
+  padding: 1%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1%;
+  color: midnightblue;
+}
+.card1{
+  padding: 20px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2) ;
+}
+.card2{
+  padding: 20px;
+  background-color: white;
+  margin-left: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2) ;
+}
+.card3{
+  background-color: white;
+  padding: 20px;
+  margin-left: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2) ;
+}
+.bungkusCard2{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 2%;
+  padding: 1%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1%;
+  color: midnightblue;
+}
+.card4{
+  background-color: white;
+  padding: 20px;
+  margin-left: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2) ;
+}
+.card5{
+  background-color: white;
+  padding: 20px;
+  margin-left: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2) ;
+}
+.card6{
+  background-color: white;
+  padding: 20px;
+  margin-left: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2) ;
+}
+.wrapperBenefit{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 2%%;
+  padding: 1%;
+  background-color: white;
+}  
+.kiriKanan{
+  display:flex;
+  justify-items: center;
+}
+.kanan{
+  margin-left: 20%;
+}
+.kiri{
+  margin-left: 10%;
+}
+.wrapperCans{
+  display: flex;
+  margin-top: 10%;
+}
+.ceweCans1{
+  margin-left: 25%;
+}
+.ceweCans2{
+  color:mediumblue;
+  margin-left: 25px;
+  margin-top: 0px; 
+  margin-bottom: 10px;
+}
+.David{
+  color:black;
+}
+.Digital{
+  color:grey;
+}
+.wrapMeet{
+  background-color: white;
+  color: midnightblue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.meet{
+  margin-left: 10%;
+}
+.Bene{
+  margin-left: 10%;
+}
+.bungkusCard10{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 2%;
+  padding: 1%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1%;
+  color: midnightblue;
+}
+.card11{
+  padding: 20px;
+  background-color:white;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2) ;
+}
+.card12{
+  padding: 20px;
+  background-color:white;
+  margin-left: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2) ;
+}
+.card13{
+  padding: 20px;
+  background-color:white;
+  margin-left: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2) ;
+}
+.card14{
+  padding: 20px;
+  background-color:white;
+  margin-left: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2) ;
+}
+.bungkusCard11{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 2%;
+  padding: 1%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1%;
+  color: midnightblue;
+}
+.card15{
+  padding: 20px;
+  background-color:white;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2) ;
+}
+.card16{
+  padding: 20px;
+  background-color:white;
+  margin-left: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2) ;
+}
+.card17{
+  padding: 20px;
+  background-color:white;
+  margin-left: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2) ;
+}
+.card18{
+  padding: 20px;
+  background-color:white;
+  margin-left: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2) ;
+}
+
+.thisIsClosing{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: midnightblue;
+  background-color:lightblue;
+  justify-content: center;
+  align-items: center;
+}
+.howdays{
+  margin-left: 20%;
+  margin-right: 40%;
+}
+.bookameeting{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.closingHeadline{
+  font-size: 400%;
+  margin-left: 20%;
+  margin-right: 20%;
+  justify-content: center;
+}
+.Logo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Philips{
+  padding: 20px;
+}
+.Logitech{
+  padding: 10px;
+}
+.Amazon{
+  padding: 10px;
+}
+.Facebook{
+  padding:10px ;
+}
+.Google{
+  padding:10px;
+}
+.Linkedin{
+  padding: 10px;
+}
+.wrapperFooter{
+  background-color:navy;
+}
+.containerFooter{
+  display: flex;
+  justify-content: space-between;
+  
+}
+.logoA{
+  margin-left: 9%;
+  margin-top: 2%;
+}
+.footerKiri{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: white;
+  margin-left: 9%;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column
+}
+.footerKanan{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  color: white;
+  
+}
+.footerKanan > li{
+  list-style: none;
+  padding: 10px;
+  
+}
+.footerKanan > li >a {
+  text-decoration: none;
+  color: white;  
+}

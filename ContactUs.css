@@ -1,0 +1,163 @@
+.Navbar{
+    display:flex;
+    justify-content: flex-start;
+    margin-top: 1%;
+    margin-left: 10%;
+}
+.Menu{
+    display: flex;
+    flex-direction: row;
+    
+}
+.Menu>li{
+margin-top: 5%;
+list-style-type: none;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: midnightblue;
+}
+.Menu>li>a:hover {
+    background-color:orange;
+    transition:all .5s ease-in-out
+  }
+
+.Menu>li>a{
+    text-decoration: none;
+    padding: 20px;
+}
+.Text1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: midnightblue;
+    justify-content: flex-start;
+    margin-left: 10%;
+    
+}
+.Contact{
+    font-size: 35px;
+}
+.ifyou{
+    margin-left: 0%;
+    margin-right: 70%;
+}
+.wrapcallus{
+    display: flex;
+    justify-content: flex-start;
+}
+.callus{
+    color:white;
+    margin-right: 20px;
+    padding: 10px;
+    background-color:navy;
+    
+}
+.emailus{
+    margin-left: 20px;
+    padding:10px;
+    background-color:white;
+}
+.gambarIcon{
+    margin-left: 10%;
+    margin-top :10px;
+    justify-content: center;
+    
+}
+.Amazon{
+    margin-left: 20px;
+}
+.Intel{
+    margin-left: 20px;
+}
+.Atlassian{
+    margin-left:20px;
+}
+.wrapper{
+    background-color: lightblue;
+}
+.bungkusForm{
+    display: flex;
+    justify-content: flex-end;
+    padding:20px;
+
+}
+.form{
+    padding : 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 3%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Lets{
+    color: midnightblue;
+}
+.if{
+    color: grey;
+}
+.csubmit{
+    padding: 40 , 20 ;
+    background-color: navy;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.OurOficeHead{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 10%;
+    margin-right: 10%;
+    display:flex;
+    justify-content: space-between;
+}
+.wrapCard{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px;
+    margin-left: 10%;
+    color: midnightblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card1{
+    padding :20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 3%;
+}
+.card2{
+    padding:20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 3%;
+    margin-left: 20px;
+}
+.wrapperFooter{
+    background-color:navy;
+}
+.containerFooter{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.logoA{
+    margin-left: 9%;
+    margin-top: 2%;
+}
+.footerKiri{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    margin-left: 9%;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column
+}
+.footerKanan{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    color: white;
+    
+}
+.footerKanan > li{
+    list-style: none;
+    padding: 10px;
+    
+}
+.footerKanan > li >a {
+    text-decoration: none;
+    color: white;  
+}
